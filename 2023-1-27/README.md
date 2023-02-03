@@ -11,6 +11,7 @@
 |             20230127_tid_data.db              |                          tid数据                           | 34.5MB |  370643  |
 |        20230127_topic_content_data.db         |                         主题帖数据                         | 318MB  |  337121  |
 |              20230127_article.db              |               根据主题帖数据提取的同人文数据               | 20.6MB |   2348   |
+|   20230127_topic_comments_data-1-200000.db    |    根据tid数据中的“id”键，爬取的从1到20万的帖子回复数据    | 2.34GB |  163573  |
 | 20230127_topic_comments_data-200001-300000.db |  根据tid数据中的“id”键，爬取的从20万1到30万的帖子回复数据  | 1.15GB |  75602   |
 | 20230127_topic_comments_data-300000-444820.db | 根据tid数据中的“id”键，爬取的从30万到44万820的帖子回复数据 | 1.63GB |  97973   |
 
@@ -23,6 +24,7 @@ MD5：
 |             20230127_tid_data.db              | 51418ba1020d8582f6aeeb617d167133 |
 |        20230127_topic_content_data.db         | ae843367f1894c86e3e2c60e85f329f1 |
 |              20230127_article.db              | bf4382b503e82adf318521221ba863fe |
+|   20230127_topic_comments_data-1-200000.db    | 69ad8c504471486ec37190c49b265301 |
 | 20230127_topic_comments_data-200001-300000.db | ff2c1ca115fd8b768b486c0824a6b0a5 |
 | 20230127_topic_comments_data-300000-444820.db | 0e7f966054fd7aee2b578c1b0e03f499 |
 
