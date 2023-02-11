@@ -29,7 +29,7 @@
 
 ### 3.0 数据下载链接
 
-除了直接从Github上下载这些数据以外，还有以下下载数据的方式：
+除了直接从[Github的Release](https://github.com/ASOUL-DoubanGroup-Mirror/Data/releases)上下载这些数据以外，还有以下下载数据的方式：
 
 - Steam上的 Wallpaper Engine 创意工坊
 
