@@ -2,6 +2,8 @@
 
 本目录存储了基于2023年1月27日采集的tid（topic id）而进行爬取的豆瓣魂组数据。
 
+下载地址：https://github.com/ASOUL-DoubanGroup-Mirror/Data/releases/tag/2023-01-27
+
 处理部分数据所使用的sql脚本请见 `./processing_sql` 目录。
 
 各文件说明如下：
